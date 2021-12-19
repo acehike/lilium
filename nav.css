@@ -12,7 +12,7 @@
 }
 
 .container {
-  width: 1000px;
+  width: 768px;
   margin: 0 auto;
 }
 
@@ -38,7 +38,7 @@
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 768px) {
 
 
 
@@ -51,7 +51,7 @@
   }
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 768px) {
   .topnav.responsive {position: fixed;}
   .topnav.responsive .icon {
     position: absolute;
